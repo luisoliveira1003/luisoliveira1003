@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Estou em busca de me tornar um FullStack Developer :computer:
 
- :rocket:  &nbsp; Atualmente buscando vaga com desenvolvedor **Front-end Júnior**
+ :rocket:  &nbsp; Atualmente buscando vaga como desenvolvedor **Front-end Júnior**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com HTML5, CSS3, PHP e C.
  <br/> :computer: &nbsp; Estudando: React, ReactJS, Node.js, React Native & Typescript
