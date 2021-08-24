@@ -6,7 +6,7 @@
 I am passionate about solving problems using programming.
 I am looking to become a FullStack Developer :computer:
 
- :rocket:  &nbsp; Currently looking for a job as a developer **Front-end Júnior**
+ :rocket:  &nbsp; I am currently a **Full Stack Junior Developer**
  <br/> :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React
  <br/> :blush: &nbsp; Can i help you with React.js, Node.js, HTML5, CSS3, PHP and C.
  <br/> :computer: &nbsp; Studying: React.js, Node.js, React Native & Typescript
@@ -26,7 +26,7 @@ const luis = {
         backEnd: {
             js: ["Node"]
         },
-        databases: ["PostgreSQL", "MySQL"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "FaunaDB"],
     }
 };
 ```
