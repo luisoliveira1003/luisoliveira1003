@@ -8,8 +8,8 @@ I am looking to become a Full Stack Developer Analyst :computer:
 
  :rocket:  &nbsp; I am currently a **Full Stack Developer Analyst**
  <br/> :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React
- <br/> :blush: &nbsp; Can i help you with React.js, Node.js, HTML5, CSS3, PHP and C.
- <br/> :computer: &nbsp; Studying: React.js, Node.js, React Native & Typescript
+ <br/> :blush: &nbsp; Can i help you with React.js, Next.js, Node.js, HTML5, CSS3, PHP, C# and C.
+ <br/> :computer: &nbsp; Studying: React.js, Next.js, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like technologies, games, Mobile - Wild Rift, movies and series
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LuisOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laco3/)](https://www.linkedin.com/in/laco3/) 
 | 
