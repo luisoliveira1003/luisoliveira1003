@@ -4,7 +4,7 @@
 
 ## Hey guys 👋
 I am passionate about solving problems using programming.
-I am looking to become a FullStack Developer :computer:
+I am looking to become a Full Stack Developer Analyst :computer:
 
  :rocket:  &nbsp; I am currently a **Full Stack Developer Analyst**
  <br/> :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React
