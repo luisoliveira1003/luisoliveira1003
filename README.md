@@ -1,95 +1,31 @@
-<h1 align="center">Luis Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Luis Oliveira</h1>
+<h3 align="center">I am passionate about solving problems using programming. I am looking to become a Full Stack Developer Analyst</h3>
 
-<h2 align="center">About me</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisoliveira1003&label=Profile%20views&color=0e75b6&style=flat" alt="luisoliveira1003" /> </p>
 
-## Hey guys 👋
-I am passionate about solving problems using programming.
-I am looking to become a Full Stack Developer Analyst :computer:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisoliveira1003" alt="luisoliveira1003" /></a> </p>
 
- :rocket:  &nbsp; I am currently a **Full Stack Developer Analyst**
- <br/> :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React
- <br/> :blush: &nbsp; Can i help you with React.js, Next.js, Node.js, HTML5, CSS3, PHP, C# and C.
- <br/> :computer: &nbsp; Studying: React.js, Next.js, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; About me: I like technologies, games, Mobile - Wild Rift, movies and series
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LuisOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laco3/)](https://www.linkedin.com/in/laco3/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-luis.oliveira10031992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.oliveira10031992@gmail.com)](mailto:tgmarinho@gmail.com)
+- 🔭 I’m currently working on **Livro Digital Online/Offline**
 
-```javascript
-const luis = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "games"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.JS"],
-        },
-        backEnd: {
-            js: ["Node"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "FaunaDB"],
-    }
-};
-```
+- 🌱 I’m currently learning **React.js, Next.js, Node.js, React Native, Typescript, Jest & Storybook**
 
-<h2 align="center">You can reach me at :handshake:</h2>
+- 👯 I’m looking to collaborate on **Simulados**
 
-<p align="center">
-  <!-- <a href="https://dev.to/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luis Oliveira's DEV Profile" height="30" width="30">
-  </a> -->
+- 💬 Ask me about **React.js, Next.js, Node.js, HTML5, CSS3, PHP, C# and C**
 
-  <a href="https://www.linkedin.com/in/laco3/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luis Oliveira's LinkedIn Profile" height="30" width="30">
-  </a>
+- 📫 How to reach me **luis.oliveira10031992@gmail.com**
 
-  <!-- <a href="https://stackoverflow.com/users/">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Luis Oliveira's Stack Overflow Profile" height="30" width="30">
-  </a> -->
-
-  <!-- <a href="https://stackexchange.com/users/">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Luis Oliveira's Stack Exchange Profile" height="30" width="30">
-  </a> -->
-
-  <a href="https://stackshare.io/luisoliveira1003">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Luis Oliveira's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <!-- <a href="https://gitlab.com/">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Luis Oliveira's GitLab Profile" height="30" width="30">
-  </a> -->
-  
-  <!-- <a href="https://medium.com/">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Luis Oliveira's Medium Profile" height="30" width="30">
-  </a> -->
-  
-  <!-- <a href="https://www.youtube.com/">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Luis Oliveira's YouTube Channel" height="30" width="30">
-  </a> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/luisoliveira1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luisoliveira1003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laco3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laco3" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/luisoliveira1003/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge" alt="Luis :: StackShare" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisoliveira1003&show_icons=true&locale=en&layout=compact" alt="luisoliveira1003" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisoliveira1003&show_icons=true&locale=en" alt="luisoliveira1003" /></p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h3 align="center">Visitor's count :eyes:</h3>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{luisoliveira1003}/count.svg" alt="Luis :: Visitor's Count" /></p>
-
-<h3 align="center">Top langs :tongue:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisoliveira1003&langs_count=10&theme=synthwave&layout=compact" alt="Luis :: Top Langs" /></p>
-
-<h3 align="center">Profile stats :musical_keyboard:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luisoliveira1003&show_icons=true&theme=synthwave" alt="Luis :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisoliveira1003&" alt="luisoliveira1003" /></p>
