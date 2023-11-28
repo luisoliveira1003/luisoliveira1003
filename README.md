@@ -5,7 +5,7 @@
 🔭 I’m currently working on Psychometrika<br>👯 I’m looking to collaborate on React, Node, JavaScript & TypeScript<br>🌱 I’m currently learning JavaScript Specialist and Tests Advanced<br>💬 Ask me about React, Node, JavaScript & TypeScript<br>📫 How to reach me luis.oliveira10031992@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laco3/) 
 
 ## 💻 Tech Stack
