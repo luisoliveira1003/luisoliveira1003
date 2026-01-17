@@ -17,6 +17,7 @@ I work mainly with **Node.js, TypeScript, React/Next.js**, focusing on **clean a
 - ⚙️ Passionate about **problem solving, system design, refactoring legacy code and improving pipelines**
 - 💬 Ask me about **Node.js, NestJS, React, TypeScript, APIs, Architecture, CI/CD, Cloud & Testing**
 - 📫 How to reach me: **luisac.oliveira3@gmail.com**
+- 💻 My website: https://luisoliveira.tech/
 
 ---
 
